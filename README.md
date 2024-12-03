@@ -1,2 +1,3 @@
 # Thesis
-My Senior year thesis
+This repository contains my Senior Capstone Experience (SCE) thesis, titled 'Comparative Study of Classification Techniques in BSM Higgs Boson Searches'. It explores multivariate classification methods, specifically Maximum Likelihood Estimation and Boosted Decision Trees (BDT), in the context of distinguishing Beyond Standard Model (BSM) Higgs bosons from Standard Model backgrounds using data from the ATLAS experiment at CERN's LHC. The document provides a detailed theoretical framework, experimental setup, data analysis, and comparative results of the methods applied. This work aims to enhance sensitivity to BSM Higgs searches within the two-Higgs-doublet model framework.
+
